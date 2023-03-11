@@ -18,6 +18,17 @@
     scroll-behavior: smooth;
 }
 
+::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  
+  ::-webkit-scrollbar-thumb {
+    background: #915EFF;
+    border-radius: 10px;
+  }
+  
+
 .hash-span {
     margin-top: -100px;
     padding-bottom: 100px;
@@ -213,3 +224,4 @@
     font-family: Nunito, sans-serif !important;
     color: #915EFF;
 }
+

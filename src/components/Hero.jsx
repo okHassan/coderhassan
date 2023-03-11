@@ -46,12 +46,12 @@ const Hero = () => {
             <div
                 className={`absolute inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
             >
-                <div className="container flex items-center relative z-2 mt-4">
+                <div className="container flex items-center relative z-2 mt-1">
                     <div className="flex items-center justify-center flex-col w-[100%]">
 
                         <img src='/avatar.svg' alt="avatar" className="w-40 h-40" />
 
-                        <h4 className="text-gray-100 mt-14">
+                        <h4 className="text-gray-100 mt-8">
                             I'm a
                             <span className="ml-2 font-Nunito text-lg text-[#915EFF] tracking-wide">
                                 hassan Ahmed
@@ -111,7 +111,7 @@ const Hero = () => {
                         {/* ==== Right side - social icons ==== */}
                         <div className='flex gap-5 items-center text-white'>
                             {SOCIAL_ICONS.map((icon, index) => (
-                                <a href={icon.href} key={index} target="_blank" rel="noreferrer" className="text-white duration-200 hover:text-[#67DB52]">
+                                <a href={icon.href} key={index} target="_blank" rel="noreferrer" className="text-white duration-200 hover:text-[#915EFF]">
                                     {icon.icon}
                                 </a>
                             ))}

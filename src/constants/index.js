@@ -73,58 +73,96 @@ const services = [
 
 const technologies = [
     {
-        name: "HTML 5",
-        icon: html,
+        name: "Javascript",
+        parentage: 80,
+        color: "#EAD41C"
     },
     {
-        name: "CSS 3",
-        icon: css,
-    },
-    {
-        name: "JavaScript",
-        icon: javascript,
-    },
-    {
-        name: "TypeScript",
-        icon: typescript,
+        name: "Typescript",
+        parentage: 75,
+        color: "#0074C2"
     },
     {
         name: "React JS",
-        icon: reactjs,
+        parentage: 80,
+        color: "#0E2368"
     },
     {
-        name: "Redux Toolkit",
-        icon: redux,
+        name: "Next JS",
+        parentage: 70,
+        color: "#70CAC6"
+    },
+    {
+        name: "HTML",
+        parentage: 90,
+        color: "#D84924"
+    },
+    {
+        name: "CSS",
+        parentage: 85,
+        color: "#2449D8"
+    },
+    {
+        name: "Bootstrap",
+        parentage: 75,
+        color: "#6D11EA"
     },
     {
         name: "Tailwind CSS",
-        icon: tailwind,
+        parentage: 95,
+        color: "#1BBDAF"
     },
     {
         name: "Node JS",
-        icon: nodejs,
+        parentage: 75,
+        color: "#78B465"
     },
     {
-        name: "MongoDB",
-        icon: mongodb,
+        name: "Express JS",
+        parentage: 85,
+        color: "#78B465"
+    },
+    {
+        name: "Mongo DB",
+        parentage: 75,
+        color: "#1C8333"
+    },
+    {
+        name: "MySQL",
+        parentage: 70,
+        color: "#005C83"
+    },
+    {
+        name: "React Native",
+        parentage: 70,
+        color: "#4F58F2"
+    },
+    {
+        name: "FireBase",
+        parentage: 80,
+        color: "#FFCB2B"
+    },
+    {
+        name: "Socket IO",
+        parentage: 65,
+        color: "#21AF90"
+    },
+    {
+        name: "Figma",
+        parentage: 65,
+        color: "#9D56F7"
     },
     {
         name: "Three JS",
-        icon: threejs,
+        parentage: 70,
+        color: "#102EA8"
     },
     {
-        name: "git",
-        icon: git,
+        name: "Blender",
+        parentage: 75,
+        color: "#E37200"
     },
-    {
-        name: "figma",
-        icon: figma,
-    },
-    {
-        name: "docker",
-        icon: docker,
-    },
-];
+]
 
 const experiences = [
     {

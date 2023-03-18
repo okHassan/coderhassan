@@ -27,7 +27,7 @@ const Tech = () => {
     return (
         <div className='container mx-auto flex flex-row flex-wrap justify-center gap-10'>
             <div className="mt-14">
-                <div className="flex flex-wrap justify-between">
+                <div className="flex flex-wrap justify-between mx-6">
                     {technologies.map((skill, index) => (
                         <SkillProgress key={index} {...skill} />
                     ))}

@@ -89,7 +89,7 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            <div className='absolute md:bottom-2 bottom-5 left-0 w-full'>
+            <div className='absolute md:bottom-2 bottom-5 left-0 w-full mx-5'>
                 <div className="container">
                     <div className='flex justify-between md:flex-row flex-col gap-4 items-center'>
                         {/* ==== left side - Counters ==== */}

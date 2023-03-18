@@ -3,26 +3,10 @@ import {
     backend,
     creator,
     web,
-    javascript,
-    typescript,
-    html,
-    css,
-    reactjs,
-    redux,
-    tailwind,
-    nodejs,
-    mongodb,
-    git,
-    figma,
-    docker,
     meta,
     starbucks,
     tesla,
     shopify,
-    carrent,
-    jobit,
-    tripguide,
-    threejs,
     bankwebsite,
     airbnb,
     restaurent,
@@ -30,9 +14,9 @@ import {
     eduweb,
     tourly,
     zepto,
-    daraz,
-    google,
-    business,
+    // daraz,
+    // google,
+    // business,
     projectmeta,
     neondashboard
 } from "../assets";
@@ -267,7 +251,7 @@ const projects = [
         ],
         link: "https://banking-app.vercel.app/",
         image: bankwebsite,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Hassanahmed006/modern-react-bank-website",
     },
     {
         name: "Project Meta",
@@ -287,12 +271,12 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        link: "https://banking-app.vercel.app/",
+        link: "https://project-meta.netlify.app/",
         image: projectmeta,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Hassanahmed006/project-meta",
     },
     {
-        name: "Project Meta",
+        name: "modern dashboard",
         description:
             "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
@@ -309,12 +293,12 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        link: "https://banking-app.vercel.app/",
+        link: "https://admin-dashboard-1132205.netlify.app/",
         image: neondashboard,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Hassanahmed006/react-admin-dashboard",
     },
     {
-        name: "Project Meta",
+        name: "Tourly",
         description:
             "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
@@ -331,12 +315,12 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        link: "https://banking-app.vercel.app/",
+        link: "https://fancy-semolina-574b3c.netlify.app/",
         image: tourly,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Hassanahmed006/Tourly",
     },
     {
-        name: "Project Meta",
+        name: "Restaurent Website",
         description:
             "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
@@ -353,12 +337,12 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        link: "https://banking-app.vercel.app/",
+        link: "https://restaurent-website-66.netlify.app",
         image: restaurent,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Hassanahmed006/Responsive-restaurant-website",
     },
     {
-        name: "Project Meta",
+        name: "Airbnb",
         description:
             "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
@@ -375,12 +359,12 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        link: "https://banking-app.vercel.app/",
+        link: "https://airbnb-by-hassan.netlify.app",
         image: airbnb,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Hassanahmed006/Airbnb-Clone",
     },
     {
-        name: "Project Meta",
+        name: "Restaurent",
         description:
             "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
@@ -397,9 +381,31 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        link: "https://banking-app.vercel.app/",
+        link: "https://restaurant-by-hassan.netlify.app",
         image: restaurentold,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/Hassanahmed006/Restaurant-Website",
+    },
+    {
+        name: "Zeppto",
+        description:
+            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        tags: [
+            {
+                name: "nextjs",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "reactjs",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tailwindcss",
+                color: "pink-text-gradient",
+            },
+        ],
+        link: "https://zeppto-by-hassan.netlify.app",
+        image: zepto,
+        source_code_link: "https://github.com/Hassanahmed006/zepto-clone",
     },
     {
         name: "Project Meta",
@@ -419,31 +425,9 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        link: "https://banking-app.vercel.app/",
-        image: zepto, 
-        source_code_link: "https://github.com/",
-    },
-    {
-        name: "Project Meta",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-        tags: [
-            {
-                name: "nextjs",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "reactjs",
-                color: "green-text-gradient",
-            },
-            {
-                name: "tailwindcss",
-                color: "pink-text-gradient",
-            },
-        ],
-        link: "https://banking-app.vercel.app/",
-        image: eduweb, 
-        source_code_link: "https://github.com/",
+        link: "https://effervescent-lily-cba905.netlify.app",
+        image: eduweb,
+        source_code_link: "https://github.com/Hassanahmed006/eduweb",
     },
 ];
 

@@ -89,9 +89,9 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            <div className='absolute md:bottom-2 bottom-5 left-0 w-full mx-5'>
+            <div className='absolute md:bottom-2 bottom-5 left-0 w-full'>
                 <div className="container">
-                    <div className='flex justify-between md:flex-row flex-col gap-4 items-center'>
+                    <div className='flex justify-between md:flex-row flex-col gap-4 items-center mx-5'>
                         {/* ==== left side - Counters ==== */}
                         <div className="flex gap-[80px]">
                             {COUNTERS.map((item, index) => (

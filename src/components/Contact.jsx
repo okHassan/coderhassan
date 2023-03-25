@@ -33,16 +33,16 @@ const Contact = () => {
 
         emailjs
             .send(
-                // import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-                // import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
-                // {
-                //     from_name: form.name,
-                //     to_name: "JavaScript Mastery",
-                //     from_email: form.email,
-                //     to_email: "sujata@jsmastery.pro",
-                //     message: form.message,
-                // },
-                // import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+                'service_22g6arr',
+                'template_hj3a1xm',
+                {
+                    from_name: form.name,
+                    to_name: "Hassan Ahmed",
+                    from_email: form.email,
+                    to_email: "hassan1132005@gmail.com",
+                    message: form.message,
+                },
+                '1QILIXQCERUYR5p3E'
             )
             .then(
                 () => {

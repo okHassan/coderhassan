@@ -233,8 +233,6 @@ const testimonials = [
 const projects = [
     {
         name: "Banking App",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -255,8 +253,6 @@ const projects = [
     },
     {
         name: "Project Meta",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -277,8 +273,6 @@ const projects = [
     },
     {
         name: "modern dashboard",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -299,8 +293,6 @@ const projects = [
     },
     {
         name: "Tourly",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -321,8 +313,6 @@ const projects = [
     },
     {
         name: "Restaurent Website",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -343,8 +333,6 @@ const projects = [
     },
     {
         name: "Airbnb",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -365,8 +353,6 @@ const projects = [
     },
     {
         name: "Restaurent",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -387,8 +373,6 @@ const projects = [
     },
     {
         name: "Zeppto",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",
@@ -409,8 +393,6 @@ const projects = [
     },
     {
         name: "Project Meta",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
         tags: [
             {
                 name: "nextjs",

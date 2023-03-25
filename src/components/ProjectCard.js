@@ -34,8 +34,7 @@ const ProjectCard = ({
             </div>
 
             <div className='mt-5'>
-                <h3 className='text-white font-bold text-[24px]'>{name}</h3>
-                <p className='mt-2 mb-2 text-secondary text-[14px]'>{description}</p>
+                <h3 className='text-white font-bold text-[24px] mb-3'>{name}</h3>
                 <a className='green-text-gradient text-[17px] font-semibold' href={link} target='_blank' rel="noreferrer">Live Demo</a>
             </div>
 

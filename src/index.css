@@ -209,8 +209,11 @@
     }
 }
 
-.nunito > .Typewriter__wrapper {
+.nunito>.Typewriter__wrapper {
     font-family: Nunito, sans-serif !important;
     color: #915EFF;
 }
 
+.yoo2 {
+    text-decoration: underline !important;
+}
